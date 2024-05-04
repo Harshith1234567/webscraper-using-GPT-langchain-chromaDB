@@ -2,6 +2,7 @@
 
 This is a small demo project illustrating how to create a chatbot that can query a scraped website. It uses LangChain to manage the chatbot's framework, Gradio for a user friendly interface, OpenAI's `gpt-3.5-turbo` LLM model, and ChromaDB for as a vector store. 
 
+![image](https://github.com/Harshith1234567/webscraper-using-langchain-and-chromaDB/assets/53342028/782242d1-d2fa-432f-a5f8-67d311befa4b)
 
 ## Getting started
 
